@@ -26,6 +26,7 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
 
 ## Program:
+~~~
 /*
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
 Developed by: VETRIVEL S
@@ -56,7 +57,7 @@ assign S = ~(P|Q|R);
 not(F,S);
 endmodule 
 */
-
+~~~
 ## Output:
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 ## Truthtable
