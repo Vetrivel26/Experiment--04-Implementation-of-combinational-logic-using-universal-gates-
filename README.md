@@ -10,11 +10,6 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 ## Hardware – PCs, Cyclone II , USB flasher
 ## Software – Quartus prime
 ## Theory
- 
- 
- 
- 
-
 
 ## Procedure
 
